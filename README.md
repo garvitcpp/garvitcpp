@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Garvit</h1>
 # 💫 About Me:
 🔭 I’m currently working on Deep Learning-Powered Medical Imaging Analysis<br>🌱 I’m currently learning Next.js and react native<br>💬 Ask me about react, django and mongoDB<br>📫 How to reach me garvitcpp@gmail.com
 
